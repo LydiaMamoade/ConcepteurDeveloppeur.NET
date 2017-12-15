@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Operateur\bin\Debug\Operateur.exe.config
+S:\Formation\Ali\Code\CSharp\Operateur\bin\Debug\Operateur.exe
+S:\Formation\Ali\Code\CSharp\Operateur\bin\Debug\Operateur.pdb
+S:\Formation\Ali\Code\CSharp\Operateur\obj\Debug\Operateur.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Operateur\obj\Debug\Operateur.exe
+S:\Formation\Ali\Code\CSharp\Operateur\obj\Debug\Operateur.pdb

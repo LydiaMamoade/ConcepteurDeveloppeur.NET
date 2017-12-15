@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Bases\bin\Release\Bases.exe.config
+S:\Formation\Ali\Code\CSharp\Bases\bin\Release\Bases.exe
+S:\Formation\Ali\Code\CSharp\Bases\bin\Release\Bases.pdb
+S:\Formation\Ali\Code\CSharp\Bases\obj\Release\Bases.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Bases\obj\Release\Bases.exe
+S:\Formation\Ali\Code\CSharp\Bases\obj\Release\Bases.pdb

@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.exe.config
+\\PARME25\Lydia\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.exe
+\\PARME25\Lydia\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.pdb
+\\PARME25\Lydia\Code\CSharp\LaFabrique\obj\Debug\LaFabrique.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\LaFabrique\obj\Debug\LaFabrique.exe
+\\PARME25\Lydia\Code\CSharp\LaFabrique\obj\Debug\LaFabrique.pdb

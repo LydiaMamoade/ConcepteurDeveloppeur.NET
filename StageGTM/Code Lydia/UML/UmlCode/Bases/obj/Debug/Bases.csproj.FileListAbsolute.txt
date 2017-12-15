@@ -1,0 +1,9 @@
+S:\Lydia\Code\UML\UmlCode\Bases\bin\Debug\Bases.exe.config
+S:\Lydia\Code\UML\UmlCode\Bases\bin\Debug\Bases.exe
+S:\Lydia\Code\UML\UmlCode\Bases\bin\Debug\Bases.pdb
+S:\Lydia\Code\UML\UmlCode\Bases\obj\Debug\Bases.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Bases\obj\Debug\Bases.exe
+S:\Lydia\Code\UML\UmlCode\Bases\obj\Debug\Bases.pdb
+\\PARME25\Lydia\Code\UML\UmlCode\Bases\bin\Debug\Bases.exe.config
+\\PARME25\Lydia\Code\UML\UmlCode\Bases\obj\Debug\Bases.exe
+\\PARME25\Lydia\Code\UML\UmlCode\Bases\obj\Debug\Bases.pdb

@@ -1,0 +1,9 @@
+S:\Lydia\Code\solution1\projet1\bin\Debug\projet1.exe.config
+S:\Lydia\Code\solution1\projet1\bin\Debug\projet1.exe
+S:\Lydia\Code\solution1\projet1\bin\Debug\projet1.pdb
+S:\Lydia\Code\solution1\projet1\obj\Debug\projet1.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\solution1\projet1\obj\Debug\projet1.exe
+S:\Lydia\Code\solution1\projet1\obj\Debug\projet1.pdb
+\\PARME25\Lydia\Code\solution1\projet1\bin\Debug\projet1.exe.config
+\\PARME25\Lydia\Code\solution1\projet1\obj\Debug\projet1.exe
+\\PARME25\Lydia\Code\solution1\projet1\obj\Debug\projet1.pdb

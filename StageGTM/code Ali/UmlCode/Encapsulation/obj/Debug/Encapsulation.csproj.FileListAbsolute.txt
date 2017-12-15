@@ -1,0 +1,9 @@
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\bin\Debug\Encapsulation.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\bin\Debug\Encapsulation.exe
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\bin\Debug\Encapsulation.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\obj\Debug\Encapsulation.exe
+S:\Formation\Ali\Code\UML\UmlCode\Encapsulation\obj\Debug\Encapsulation.pdb
+\\PARME22\Formation\Ali\Code\UML\UmlCode\Encapsulation\bin\Debug\Encapsulation.exe.config
+\\PARME22\Formation\Ali\Code\UML\UmlCode\Encapsulation\obj\Debug\Encapsulation.exe
+\\PARME22\Formation\Ali\Code\UML\UmlCode\Encapsulation\obj\Debug\Encapsulation.pdb

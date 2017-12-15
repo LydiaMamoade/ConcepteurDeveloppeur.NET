@@ -1,0 +1,5 @@
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Release\Bases.exe.config
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Release\Bases.exe
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Release\Bases.pdb
+\\PARME25\Lydia\Code\CSharp\Bases\obj\Release\Bases.exe
+\\PARME25\Lydia\Code\CSharp\Bases\obj\Release\Bases.pdb

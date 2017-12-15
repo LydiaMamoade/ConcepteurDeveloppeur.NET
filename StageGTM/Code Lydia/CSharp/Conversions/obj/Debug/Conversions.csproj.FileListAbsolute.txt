@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Conversions\bin\Debug\Conversions.exe.config
+\\PARME25\Lydia\Code\CSharp\Conversions\bin\Debug\Conversions.exe
+\\PARME25\Lydia\Code\CSharp\Conversions\bin\Debug\Conversions.pdb
+\\PARME25\Lydia\Code\CSharp\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Conversions\obj\Debug\Conversions.exe
+\\PARME25\Lydia\Code\CSharp\Conversions\obj\Debug\Conversions.pdb

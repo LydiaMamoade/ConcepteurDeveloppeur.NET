@@ -1,0 +1,277 @@
+<SAMI>
+<Head>
+<Title>New SAMI Document</Title>
+
+<SAMIParam>
+<!--
+              Media="C:\WINDOWS\Desktop\Scott's SMI work\2124_08a.avi"
+-->
+</SAMIParam>
+
+<Style Type="text/css">
+<!--
+              P 
+                            {
+                            background-color: Black;
+                            color: white;
+                            font-family: Verdana;
+                            font-size: 12pt;
+                            font-weight: Normal;
+                            margin-left: 14pt;
+                            margin-right: 14pt;
+                            }
+
+              .CC 
+                            {
+                            name: SAMI Captions;
+                            }
+
+
+-->
+</Style>
+</Head>
+
+<Body>
+<Table>
+<Sync Start=0>
+<P Class=CC>&nbsp;<SpanID="0">
+
+<Sync Start=4877>
+<P Class=CC>Casting de type sécurisé en C#<SpanID="4877">
+
+<Sync Start=9000>
+<P Class=CC>C# est un langage de type sécurisé.<SpanID="9000">
+
+<Sync Start=12000>
+<P Class=CC>En d'autres termes, vous pouvez assigner en toute sécurité une valeur d'un type donné à une variable d'un autre type.<SpanID="12444">
+
+<Sync Start=18900>
+<P Class=CC>Dans cette animation, vous allez découvrir comment vérifier que les types sont sécurisés et comment effectuer un cast,<SpanID="18400">
+
+<Sync Start=25700>
+<P Class=CC>comment l'opérateur&nbsp;<STRONG>is</STRONG> fonctionne avec la hiérarchie d'objets C#,<SpanID="24022">
+
+<Sync Start=30400>
+<P Class=CC>et comment le casting détermine ce qu'un objet peut faire ou ne pas faire<SpanID="28753">
+
+<Sync Start=34300>
+<P Class=CC>après avoir été casté vers un type différent mais apparenté.<SpanID="32414">
+
+<Sync Start=39200>
+<P Class=CC>Voici un exemple :<SpanID="37133">
+
+<Sync Start=40800>
+<P Class=CC>Cette tour de contrôle surveille des pilotes de ligne et des pilotes de voltige.<SpanID="38755">
+
+<Sync Start=47500>
+<P Class=CC>Les pilotes de ligne et les pilotes de voltige sont formés, possèdent une licence<SpanID="45159">
+
+<Sync Start=51700>
+<P Class=CC>et savent piloter un avion.<SpanID="49762">
+
+<Sync Start=53700>
+<P Class=CC>En termes C#,&nbsp;<STRONG>Pilote</STRONG> est une classe de base, tandis que&nbsp;<STRONG>EstFormé</STRONG>,&nbsp;<STRONG>PossèdeUneLicence</STRONG>,<SpanID="51581">
+
+<Sync Start=60000>
+<P Class=CC>et&nbsp;<STRONG>PiloteUnAvion</STRONG> sont des méthodes de la classe de base&nbsp;<STRONG>Pilote.</STRONG><SpanID="57570">
+
+<Sync Start=64600>
+<P Class=CC>Deux classes dérivent de la classe de base&nbsp;<STRONG>Pilote</STRONG> :<SpanID="61979">
+
+<Sync Start=67500>
+<P Class=CC>&nbsp;<STRONG>PiloteDeLigne</STRONG> et&nbsp;<STRONG>PiloteDeVoltige.</STRONG><SpanID="65090">
+
+<Sync Start=71300>
+<P Class=CC>La classe&nbsp;<STRONG>PiloteDeLigne</STRONG> peut exécuter toutes les méthodes de la classe de base&nbsp;<STRONG>Pilote</STRONG><SpanID="68533">
+
+<Sync Start=75900>
+<P Class=CC>en plus de la méthode&nbsp;<STRONG>MonteADixMille.</STRONG><SpanID="73422">
+
+<Sync Start=79200>
+<P Class=CC>La classe&nbsp;<STRONG>PiloteDeVoltige</STRONG> peut exécuter toutes les méthodes de la classe de base&nbsp;<STRONG>Pilote</STRONG><SpanID="76278">
+
+<Sync Start=84300>
+<P Class=CC>en plus de la méthode&nbsp;<STRONG>ExécuteUnLooping.</STRONG><SpanID="80742">
+
+<Sync Start=87900>
+<P Class=CC>Alors, un&nbsp;<STRONG>PiloteDeLigne</STRONG> peut-il exécuter un looping ?<SpanID="83298">
+
+<Sync Start=93000>
+<P Class=CC>Pour le savoir, posez-vous les questions suivantes :<SpanID="87501">
+
+<Sync Start=96100>
+<P Class=CC>Qui, ou qu'est-ce qui, peut exécuter la méthode&nbsp;<STRONG>ExécuteUnLooping ?</STRONG><SpanID="91943">
+
+<Sync Start=100200>
+<P Class=CC>Seul un&nbsp;<STRONG>PiloteDeVoltige</STRONG> peut utiliser la méthode&nbsp;<STRONG>ExécuteUnLooping.</STRONG><SpanID="95018">
+
+<Sync Start=105000>
+<P Class=CC>Donc non, un&nbsp;<STRONG>PiloteDeLigne</STRONG> ne peut pas exécuter un looping.<SpanID="98627">
+
+<Sync Start=109180>
+<P Class=CC>En C#, vous pouvez instancier un&nbsp;<STRONG>PiloteDeLigne</STRONG> et exécuter à la fois<SpanID="102821">
+
+<Sync Start=113450>
+<P Class=CC>les méthodes de&nbsp;<STRONG>PiloteDeLigne</STRONG> et les méthodes de&nbsp;<STRONG>Pilote.</STRONG><SpanID="108160">
+
+<Sync Start=116800>
+<P Class=CC>Vous ne pouvez pas exécuter les méthodes de&nbsp;<STRONG>PiloteDeVoltige</STRONG> en utilisant un&nbsp;<STRONG>PiloteDeLigne</STRONG><SpanID="111007">
+
+<Sync Start=122450>
+<P Class=CC>mais vous pouvez exécuter toutes les méthodes de&nbsp;<STRONG>Pilote</STRONG> avec un&nbsp;<STRONG>PiloteDeLigne</STRONG>.<SpanID="115491">
+
+<Sync Start=127100>
+<P Class=CC>Pourquoi ? Étant donné qu'un&nbsp;<STRONG>Pilote</STRONG> est incorporé à chaque&nbsp;<STRONG>PiloteDeLigne</STRONG>,<SpanID="120278">
+
+<Sync Start=131800>
+<P Class=CC>les méthodes de&nbsp;<STRONG>Pilote</STRONG> et&nbsp;<STRONG>PiloteDeLigne</STRONG> sont disponibles.<SpanID="125410">
+
+<Sync Start=135800>
+<P Class=CC>Les méthodes de&nbsp;<STRONG>PiloteDeVoltige</STRONG>, elles, ne le sont pas.<SpanID="129808">
+
+<Sync Start=139700>
+<P Class=CC>Si vous créez une variable&nbsp;<STRONG>Pilote</STRONG> appelée&nbsp;<I>piloteChevronné</I>,<SpanID="132976">
+
+<Sync Start=143680>
+<P Class=CC>quelles méthodes pouvez-vous utiliser avec cette variable ?<SpanID="137500">
+
+<Sync Start=147100>
+<P Class=CC>Uniquement&nbsp;<STRONG>EstFormé</STRONG>,&nbsp;<STRONG>PossèdeUneLicence</STRONG>, et&nbsp;<STRONG>PiloteUnAvion</STRONG>.<SpanID="140767">
+
+<Sync Start=152650>
+<P Class=CC>À présent, créez une variable&nbsp;<STRONG>Pilote</STRONG> et instanciez un nouveau&nbsp;<STRONG>PiloteDeVoltige</STRONG> appelé Michel.<SpanID="145725">
+
+<Sync Start=159150>
+<P Class=CC>La variable&nbsp;<I>piloteChevronné&nbsp;<STRONG></I> </STRONG>peut faire référence à&nbsp;<STRONG>PiloteDeVoltige</STRONG>,<SpanID="152488">
+
+<Sync Start=163650>
+<P Class=CC>mais comme&nbsp;<I>piloteChevronné</I> est une variable&nbsp;<STRONG> Pilote</STRONG>,<SpanID="157431">
+
+<Sync Start=166550>
+<P Class=CC>elle peut uniquement exécuter les méthodes de&nbsp;<STRONG>Pilote</STRONG>.<SpanID="161085">
+
+<Sync Start=170250>
+<P Class=CC>Michel peut donc exécuter les méthodes de&nbsp;<STRONG>Pilote</STRONG>.<SpanID="163845">
+
+<Sync Start=174700>
+<P Class=CC>Une méthode appelée&nbsp;<STRONG>PiloteUnAvion()</STRONG> a été définie, qui attend un&nbsp;<STRONG>Pilote</STRONG> comme paramètre.<SpanID="168468">
+
+<Sync Start=180850>
+<P Class=CC>Dans&nbsp;<STRONG>PiloteUnAvion</STRONG>, une tentative d'exécution de la méthode&nbsp;<STRONG>ExécuteUnLooping()</STRONG> a lieu.<SpanID="173885">
+
+<Sync Start=186950>
+<P Class=CC>Bien que&nbsp;<I>exhibition</I> fasse référence à un&nbsp;<STRONG>PiloteDeVoltige</STRONG>, son type est&nbsp;<STRONG>Pilote</STRONG>,<SpanID="178917">
+
+<Sync Start=191900>
+<P Class=CC>et elle ne peut exécuter que les méthodes de&nbsp;<STRONG>Pilote</STRONG.<SpanID="184753">
+
+<Sync Start=195500>
+<P Class=CC>Ce code ne pourra pas être compilé.<SpanID="187970">
+
+<Sync Start=198400>
+<P Class=CC>Avant d'appeler&nbsp;<STRONG>ExécuteUnLooping</STRONG>, vous devez convertir&nbsp;<I>piloteChevronné</I><SpanID="191034">
+
+<Sync Start=203150>
+<P Class=CC>en un type capable d'exécuter la méthode&nbsp;<STRONG>ExécuteUnLooping</STRONG>.<SpanID="195504">
+
+<Sync Start=207650>
+<P Class=CC>Pour ce faire, vous pouvez utiliser un cast.<SpanID="198713">
+
+<Sync Start=210790>
+<P Class=CC>Cette opération est sûre, car le paramètre passé<SpanID="201559">
+
+<Sync Start=213760>
+<P Class=CC>était à l'origine un&nbsp;<STRONG>PiloteDeVoltige</STRONG>.<SpanID="205456">
+
+<Sync Start=217150>
+<P Class=CC>La variable&nbsp;<I>exhibitionVoltige</I> étant du type&nbsp;<STRONG>PiloteDeVoltige</STRONG>,<SpanID="207661">
+
+<Sync Start=221600>
+<P Class=CC>elle peut être utilisée pour exécuter&nbsp;<STRONG>ExécuteUnLooping</STRONG>.<SpanID="211861">
+
+<Sync Start=226000>
+<P Class=CC>Cet artifice dit au compilateur<SpanID="215429">
+
+<Sync Start=228300>
+<P Class=CC>« Je sais que&nbsp;<STRONG>PiloteUnAvion</STRONG> peut seulement être utilisée pour exécuter des méthodes de&nbsp;<STRONG>Pilote</STRONG>,<SpanID="218410">
+
+<Sync Start=233370>
+<P Class=CC>mais comme je sais qu'elle fait en réalité référence à un&nbsp;<STRONG>PiloteDeVoltige</STRONG> , cette opération est sûre·fais-moi confiance. »<SpanID="223490">
+
+<Sync Start=240400>
+<P Class=CC>Mais l'est-elle vraiment ?<SpanID="229599">
+
+<Sync Start=242000>
+<P Class=CC>Que se passera-t-il si ultérieurement vous utilisez la même méthode&nbsp;<STRONG>PiloteUnAvion</STRONG> avec une variable différente?<SpanID="232335">
+
+<Sync Start=249350>
+<P Class=CC>Par exemple, vous créez un nouveau&nbsp;<STRONG>PiloteDeLigne</STRONG>, Barbara,<SpanID="237771">
+
+<Sync Start=253000>
+<P Class=CC>et vous lui affectez la variable&nbsp;<STRONG>piloteChevronné</STRONG>.<SpanID="241462">
+
+<Sync Start=256650>
+<P Class=CC>Barbara peut exécuter la méthode&nbsp;<STRONG>PossèdeUneLicence</STRONG> et peut même piloter l'avion.<SpanID="244551">
+
+<Sync Start=262500>
+<P Class=CC>Mais comme une variable de type&nbsp;<STRONG>PiloteDeLigne</STRONG> est utilisée pour faire référence à Barbara,<SpanID="250167">
+
+<Sync Start=267500>
+<P Class=CC>dès que Barbara essaie d'exécuter une méthode&nbsp;<STRONG>ExécuteUnLooping</STRONG>, le programme s'arrête<SpanID="254558">
+
+<Sync Start=273130>
+<P Class=CC>et une erreur « Exception de cast non valide » s'affiche.<SpanID="258956">
+
+<Sync Start=277780>
+<P Class=CC>Le problème, c'est que vous avez demandé au compilateur de vous faire confiance, qu'il l'a fait,<SpanID="262384">
+
+<Sync Start=282930>
+<P Class=CC>mais que vous l'avez lâchement laissé tomber !<SpanID="267580">
+
+<Sync Start=285600>
+<P Class=CC>Vous devez vérifier que les types sont sécurisés au moment de l'exécution.<SpanID="270537">
+
+<Sync Start=289850>
+<P Class=CC>Pour ce faire, vous pouvez utiliser l'opérateur&nbsp;<STRONG>is</STRONG>.<SpanID="274237">
+
+<Sync Start=293800>
+<P Class=CC>L'opérateur&nbsp;<STRONG>is</STRONG> vérifie qu'une variable est véritablement d'un type donné.<SpanID="278628">
+
+<Sync Start=299000>
+<P Class=CC>Il renvoie la valeur&nbsp;<STRONG>True</STRONG> si tel est bien le cas,&nbsp;<STRONG>False</STRONG> dans le cas contraire.<SpanID="284263">
+
+<Sync Start=304500>
+<P Class=CC>Ici, vous vérifiez que&nbsp;<I>piloteChevronné</I><SpanID="288513">
+
+<Sync Start=306850>
+<P Class=CC>est réellement un&nbsp;<STRONG>PiloteDeVoltige</STRONG> avant de le caster et d'appeler&nbsp;<STRONG>ExécuteUnLooping</STRONG>.<SpanID="292365">
+
+<Sync Start=313700>
+<P Class=CC>Si&nbsp;<I>piloteChevronné</I> n'est pas un&nbsp;<STRONG>PiloteDeVoltige</STRONG>, l'opérateur&nbsp;<STRONG>is</STRONG> renvoie la valeur False<SpanID="297128">
+
+<Sync Start=319600>
+<P Class=CC>et le code&nbsp;<STRONG>ExécuteUnLooping</STRONG> est ignoré.<SpanID="302687">
+
+<Sync Start=323300>
+<P Class=CC>Vous pouvez ainsi vous assurer qu'un&nbsp;<STRONG>PiloteDeLigne</STRONG> n'exécutera pas de loopings !<SpanID="305598">
+
+<Sync Start=328500>
+<P Class=CC>Dans cette animation, vous avez découvert le fonctionnement de la vérification de la sécurité des types et le casting en C#.<SpanID="312242">
+
+<Sync Start=336450>
+<P Class=CC>Vous avez étudié le fonctionnement de l'opérateur&nbsp;<STRONG>is</STRONG> avec la hiérarchie d'objets C#<SpanID="317777">
+
+<Sync Start=341800>
+<P Class=CC>et comment le casting détermine ce qu'un objet peut faire ou ne pas faire<SpanID="322561">
+
+<Sync Start=346000>
+<P Class=CC>après avoir été casté en un type différent mais apparenté.<SpanID="326720">
+
+<Sync Start=349800>
+<P Class=CC>&nbsp;<SpanID="331980">
+
+<Sync Start=353700>
+<P Class=CC>&nbsp;<SpanID="335167">
+</Table>
+</Body>
+</SAMI>

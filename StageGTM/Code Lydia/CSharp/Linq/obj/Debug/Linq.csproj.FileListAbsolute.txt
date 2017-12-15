@@ -1,0 +1,9 @@
+S:\Formation\Ali\Code\CSharp\Linq\bin\Debug\Linq.exe.config
+S:\Formation\Ali\Code\CSharp\Linq\bin\Debug\Linq.exe
+S:\Formation\Ali\Code\CSharp\Linq\bin\Debug\Linq.pdb
+S:\Formation\Ali\Code\CSharp\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Linq\obj\Debug\Linq.exe
+S:\Formation\Ali\Code\CSharp\Linq\obj\Debug\Linq.pdb
+\\PARME25\Lydia\Code\CSharp\Linq\bin\Debug\Linq.exe.config
+\\PARME25\Lydia\Code\CSharp\Linq\obj\Debug\Linq.exe
+\\PARME25\Lydia\Code\CSharp\Linq\obj\Debug\Linq.pdb

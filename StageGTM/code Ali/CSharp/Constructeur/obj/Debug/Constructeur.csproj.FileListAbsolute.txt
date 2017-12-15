@@ -1,0 +1,5 @@
+S:\Formation\Ali\Code\CSharp\Constructeur\bin\Debug\Constructeur.exe.config
+S:\Formation\Ali\Code\CSharp\Constructeur\bin\Debug\Constructeur.exe
+S:\Formation\Ali\Code\CSharp\Constructeur\bin\Debug\Constructeur.pdb
+S:\Formation\Ali\Code\CSharp\Constructeur\obj\Debug\Constructeur.exe
+S:\Formation\Ali\Code\CSharp\Constructeur\obj\Debug\Constructeur.pdb

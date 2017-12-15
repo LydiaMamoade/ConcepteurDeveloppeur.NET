@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Serialisation\bin\Debug\Serialisation.exe.config
+S:\Formation\Ali\Code\CSharp\Serialisation\bin\Debug\Serialisation.exe
+S:\Formation\Ali\Code\CSharp\Serialisation\bin\Debug\Serialisation.pdb
+S:\Formation\Ali\Code\CSharp\Serialisation\obj\Debug\Serialisation.exe
+S:\Formation\Ali\Code\CSharp\Serialisation\obj\Debug\Serialisation.pdb
+S:\Formation\Ali\Code\CSharp\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache

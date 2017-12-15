@@ -1,0 +1,6 @@
+S:\Lydia\Code\Test\Test\bin\Debug\Test.exe.config
+S:\Lydia\Code\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\Test\Test\bin\Debug\Test.exe
+S:\Lydia\Code\Test\Test\bin\Debug\Test.pdb
+S:\Lydia\Code\Test\Test\obj\Debug\Test.exe
+S:\Lydia\Code\Test\Test\obj\Debug\Test.pdb

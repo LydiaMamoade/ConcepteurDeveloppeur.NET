@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Exercice3\bin\Debug\Exercice3.exe.config
+S:\Formation\Ali\Code\CSharp\Exercice3\bin\Debug\Exercice3.exe
+S:\Formation\Ali\Code\CSharp\Exercice3\bin\Debug\Exercice3.pdb
+S:\Formation\Ali\Code\CSharp\Exercice3\obj\Debug\Exercice3.exe
+S:\Formation\Ali\Code\CSharp\Exercice3\obj\Debug\Exercice3.pdb
+S:\Formation\Ali\Code\CSharp\Exercice3\obj\Debug\Exercice3.csprojResolveAssemblyReference.cache

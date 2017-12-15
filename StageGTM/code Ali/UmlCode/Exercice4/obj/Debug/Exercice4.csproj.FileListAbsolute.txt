@@ -1,0 +1,10 @@
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.exe
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.Properties.Resources.resources
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.csproj.GenerateResource.Cache
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.exe
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.Form1.resources
+S:\Formation\Ali\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.Form2.resources

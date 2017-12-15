@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Operateurs\bin\Debug\Operateurs.exe.config
+\\PARME25\Lydia\Code\CSharp\Operateurs\bin\Debug\Operateurs.exe
+\\PARME25\Lydia\Code\CSharp\Operateurs\bin\Debug\Operateurs.pdb
+\\PARME25\Lydia\Code\CSharp\Operateurs\obj\Debug\Operateurs.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Operateurs\obj\Debug\Operateurs.exe
+\\PARME25\Lydia\Code\CSharp\Operateurs\obj\Debug\Operateurs.pdb

@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Virtuel\bin\Debug\Virtuel.exe.config
+\\PARME25\Lydia\Code\CSharp\Virtuel\bin\Debug\Virtuel.exe
+\\PARME25\Lydia\Code\CSharp\Virtuel\bin\Debug\Virtuel.pdb
+\\PARME25\Lydia\Code\CSharp\Virtuel\obj\Debug\Virtuel.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Virtuel\obj\Debug\Virtuel.exe
+\\PARME25\Lydia\Code\CSharp\Virtuel\obj\Debug\Virtuel.pdb

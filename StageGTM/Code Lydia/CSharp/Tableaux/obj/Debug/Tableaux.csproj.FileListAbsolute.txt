@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe.config
+\\PARME25\Lydia\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe
+\\PARME25\Lydia\Code\CSharp\Tableaux\bin\Debug\Tableaux.pdb
+\\PARME25\Lydia\Code\CSharp\Tableaux\obj\Debug\Tableaux.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Tableaux\obj\Debug\Tableaux.exe
+\\PARME25\Lydia\Code\CSharp\Tableaux\obj\Debug\Tableaux.pdb

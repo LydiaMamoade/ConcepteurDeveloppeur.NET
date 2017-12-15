@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\bin\Debug\Exercice1.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\bin\Debug\Exercice1.exe
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\bin\Debug\Exercice1.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\obj\Debug\Exercice1.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\obj\Debug\Exercice1.exe
+S:\Formation\Ali\Code\UML\UmlCode\Exercice1\obj\Debug\Exercice1.pdb

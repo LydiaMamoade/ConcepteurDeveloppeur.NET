@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.exe.config
+S:\Lydia\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.exe
+S:\Lydia\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.pdb
+S:\Lydia\Code\UML\UmlCode\Heritage\obj\Debug\Heritage.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Heritage\obj\Debug\Heritage.exe
+S:\Lydia\Code\UML\UmlCode\Heritage\obj\Debug\Heritage.pdb

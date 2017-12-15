@@ -1,0 +1,9 @@
+S:\Formation\Ali\Code\CSharp\Exercice4\bin\Debug\Exercice4.exe.config
+S:\Formation\Ali\Code\CSharp\Exercice4\obj\Debug\Exercice4.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Exercice4\bin\Debug\Exercice4.exe
+S:\Formation\Ali\Code\CSharp\Exercice4\bin\Debug\Exercice4.pdb
+S:\Formation\Ali\Code\CSharp\Exercice4\obj\Debug\Exercice4.exe
+S:\Formation\Ali\Code\CSharp\Exercice4\obj\Debug\Exercice4.pdb
+\\PARME25\Lydia\Code\CSharp\Exercice4\bin\Debug\Exercice4.exe.config
+\\PARME25\Lydia\Code\CSharp\Exercice4\obj\Debug\Exercice4.exe
+\\PARME25\Lydia\Code\CSharp\Exercice4\obj\Debug\Exercice4.pdb

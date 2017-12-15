@@ -1,0 +1,5 @@
+S:\Formation\Ali\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.exe
+S:\Formation\Ali\Code\UML\UmlCode\Heritage\bin\Debug\Heritage.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Heritage\obj\Debug\Heritage.exe
+S:\Formation\Ali\Code\UML\UmlCode\Heritage\obj\Debug\Heritage.pdb

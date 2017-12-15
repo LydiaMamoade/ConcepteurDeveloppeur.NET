@@ -1,0 +1,8 @@
+S:\Lydia\Code\UML\UmlCode\As1\bin\Debug\As1.exe.config
+S:\Lydia\Code\UML\UmlCode\As1\bin\Debug\As1.exe
+S:\Lydia\Code\UML\UmlCode\As1\bin\Debug\As1.pdb
+S:\Lydia\Code\UML\UmlCode\As1\bin\Debug\As2.dll
+S:\Lydia\Code\UML\UmlCode\As1\bin\Debug\As2.pdb
+S:\Lydia\Code\UML\UmlCode\As1\obj\Debug\As1.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\As1\obj\Debug\As1.exe
+S:\Lydia\Code\UML\UmlCode\As1\obj\Debug\As1.pdb

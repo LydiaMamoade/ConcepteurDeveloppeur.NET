@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.exe
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.pdb
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.exe
+S:\Formation\Ali\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.pdb

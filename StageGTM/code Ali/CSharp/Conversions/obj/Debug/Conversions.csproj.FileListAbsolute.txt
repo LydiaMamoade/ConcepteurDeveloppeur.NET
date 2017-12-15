@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Conversions\bin\Debug\Conversions.exe.config
+S:\Formation\Ali\Code\CSharp\Conversions\bin\Debug\Conversions.exe
+S:\Formation\Ali\Code\CSharp\Conversions\bin\Debug\Conversions.pdb
+S:\Formation\Ali\Code\CSharp\Conversions\obj\Debug\Conversions.exe
+S:\Formation\Ali\Code\CSharp\Conversions\obj\Debug\Conversions.pdb
+S:\Formation\Ali\Code\CSharp\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache

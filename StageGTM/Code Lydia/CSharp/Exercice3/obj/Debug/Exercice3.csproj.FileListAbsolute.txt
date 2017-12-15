@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Exercice3\bin\Debug\Exercice3.exe.config
+\\PARME25\Lydia\Code\CSharp\Exercice3\bin\Debug\Exercice3.exe
+\\PARME25\Lydia\Code\CSharp\Exercice3\bin\Debug\Exercice3.pdb
+\\PARME25\Lydia\Code\CSharp\Exercice3\obj\Debug\Exercice3.exe
+\\PARME25\Lydia\Code\CSharp\Exercice3\obj\Debug\Exercice3.pdb
+\\PARME25\Lydia\Code\CSharp\Exercice3\obj\Debug\Exercice3.csprojResolveAssemblyReference.cache

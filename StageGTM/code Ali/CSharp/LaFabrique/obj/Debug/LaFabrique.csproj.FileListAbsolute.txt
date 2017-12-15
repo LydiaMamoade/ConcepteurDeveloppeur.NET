@@ -1,0 +1,8 @@
+S:\Formation\Ali\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.exe.config
+S:\Formation\Ali\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.exe
+S:\Formation\Ali\Code\CSharp\LaFabrique\bin\Debug\LaFabrique.pdb
+S:\Formation\Ali\Code\CSharp\LaFabrique\obj\Debug\LaFabrique.exe
+S:\Formation\Ali\Code\CSharp\LaFabrique\obj\Debug\LaFabrique.pdb
+\\PARME25\Lydia\code Ali\CSharp\LaFabrique\bin\Debug\LaFabrique.exe.config
+\\PARME25\Lydia\code Ali\CSharp\LaFabrique\obj\Debug\LaFabrique.exe
+\\PARME25\Lydia\code Ali\CSharp\LaFabrique\obj\Debug\LaFabrique.pdb

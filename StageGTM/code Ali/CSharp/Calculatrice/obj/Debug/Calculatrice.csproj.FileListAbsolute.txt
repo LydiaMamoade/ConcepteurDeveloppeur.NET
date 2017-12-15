@@ -1,0 +1,5 @@
+S:\Formation\Ali\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.exe.config
+S:\Formation\Ali\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.exe
+S:\Formation\Ali\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.pdb
+S:\Formation\Ali\Code\CSharp\Calculatrice\obj\Debug\Calculatrice.exe
+S:\Formation\Ali\Code\CSharp\Calculatrice\obj\Debug\Calculatrice.pdb

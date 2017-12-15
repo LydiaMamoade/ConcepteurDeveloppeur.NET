@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Multitache\bin\Debug\Multitache.exe.config
+S:\Formation\Ali\Code\CSharp\Multitache\bin\Debug\Multitache.exe
+S:\Formation\Ali\Code\CSharp\Multitache\bin\Debug\Multitache.pdb
+S:\Formation\Ali\Code\CSharp\Multitache\obj\Debug\Multitache.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Multitache\obj\Debug\Multitache.exe
+S:\Formation\Ali\Code\CSharp\Multitache\obj\Debug\Multitache.pdb

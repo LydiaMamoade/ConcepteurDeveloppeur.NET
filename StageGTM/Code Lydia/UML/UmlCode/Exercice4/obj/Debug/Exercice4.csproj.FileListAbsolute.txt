@@ -1,0 +1,9 @@
+S:\Lydia\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.exe.config
+S:\Lydia\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.exe
+S:\Lydia\Code\UML\UmlCode\Exercice4\bin\Debug\Exercice4.pdb
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.Form1.resources
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.Properties.Resources.resources
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.csproj.GenerateResource.Cache
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.exe
+S:\Lydia\Code\UML\UmlCode\Exercice4\obj\Debug\Exercice4.pdb

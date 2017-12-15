@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Virtuel\bin\Debug\Virtuel.exe.config
+S:\Formation\Ali\Code\CSharp\Virtuel\bin\Debug\Virtuel.exe
+S:\Formation\Ali\Code\CSharp\Virtuel\bin\Debug\Virtuel.pdb
+S:\Formation\Ali\Code\CSharp\Virtuel\obj\Debug\Virtuel.exe
+S:\Formation\Ali\Code\CSharp\Virtuel\obj\Debug\Virtuel.pdb
+S:\Formation\Ali\Code\CSharp\Virtuel\obj\Debug\Virtuel.csprojResolveAssemblyReference.cache

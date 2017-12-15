@@ -1,0 +1,5 @@
+S:\Lydia\Code\UML\UmlCode\As2\bin\Debug\As2.dll
+S:\Lydia\Code\UML\UmlCode\As2\bin\Debug\As2.pdb
+S:\Lydia\Code\UML\UmlCode\As2\obj\Debug\As2.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\As2\obj\Debug\As2.dll
+S:\Lydia\Code\UML\UmlCode\As2\obj\Debug\As2.pdb

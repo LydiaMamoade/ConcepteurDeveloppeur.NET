@@ -1,0 +1,41 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Program_x002B_Personnes id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<List_x0060_1_x002B__items href="#ref-3"/>
+<List_x0060_1_x002B__size>5</List_x0060_1_x002B__size>
+<List_x0060_1_x002B__version>5</List_x0060_1_x002B__version>
+</a1:Program_x002B_Personnes>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:Program+Personne[8]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:Program_x002B_Personne id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Nom id="ref-9">Manoukian</Nom>
+<Prenom id="ref-10">André</Prenom>
+<DateDeNaissance>1960-11-12T00:00:00.0000000+01:00</DateDeNaissance>
+</a1:Program_x002B_Personne>
+<a1:Program_x002B_Personne id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Nom id="ref-11">Halliday</Nom>
+<Prenom id="ref-12">Johnny</Prenom>
+<DateDeNaissance>1943-09-05T00:00:00.0000000+02:00</DateDeNaissance>
+</a1:Program_x002B_Personne>
+<a1:Program_x002B_Personne id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Nom id="ref-13">Hallyday</Nom>
+<Prenom id="ref-14">David</Prenom>
+<DateDeNaissance>1969-08-11T00:00:00.0000000+02:00</DateDeNaissance>
+</a1:Program_x002B_Personne>
+<a1:Program_x002B_Personne id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Nom id="ref-15">Philippe</Nom>
+<Prenom id="ref-16">Catherine</Prenom>
+<DateDeNaissance>1969-01-18T00:00:00.0000000+01:00</DateDeNaissance>
+</a1:Program_x002B_Personne>
+<a1:Program_x002B_Personne id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Exercice4/Exercice4%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Nom id="ref-17">A</Nom>
+<Prenom id="ref-18">A</Prenom>
+<DateDeNaissance>2001-01-01T00:00:00.0000000+01:00</DateDeNaissance>
+</a1:Program_x002B_Personne>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,9 @@
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Debug\Bases.exe.config
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Debug\Bases.exe
+\\PARME25\Lydia\Code\CSharp\Bases\bin\Debug\Bases.pdb
+\\PARME25\Lydia\Code\CSharp\Bases\obj\Debug\Bases.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Bases\obj\Debug\Bases.exe
+\\PARME25\Lydia\Code\CSharp\Bases\obj\Debug\Bases.pdb
+S:\Lydia\Code\CSharp\Bases\bin\Debug\Bases.exe.config
+S:\Lydia\Code\CSharp\Bases\obj\Debug\Bases.exe
+S:\Lydia\Code\CSharp\Bases\obj\Debug\Bases.pdb

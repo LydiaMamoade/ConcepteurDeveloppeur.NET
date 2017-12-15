@@ -1,0 +1,5 @@
+\\PARME25\Lydia\Code\CSharp\Multitaches\bin\Debug\Multitaches.exe.config
+\\PARME25\Lydia\Code\CSharp\Multitaches\bin\Debug\Multitaches.exe
+\\PARME25\Lydia\Code\CSharp\Multitaches\bin\Debug\Multitaches.pdb
+\\PARME25\Lydia\Code\CSharp\Multitaches\obj\Debug\Multitaches.exe
+\\PARME25\Lydia\Code\CSharp\Multitaches\obj\Debug\Multitaches.pdb

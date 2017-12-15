@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.exe.config
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.exe
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\bin\Debug\DevinerUnNombre.pdb
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.exe
+S:\Lydia\Code\UML\UmlCode\DevinerUnNombre\obj\Debug\DevinerUnNombre.pdb

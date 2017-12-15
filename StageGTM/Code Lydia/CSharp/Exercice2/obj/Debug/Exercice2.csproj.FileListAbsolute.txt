@@ -1,0 +1,1 @@
+\\PARME25\Lydia\Code\CSharp\Exercice2\bin\Debug\Exercice2.exe.config

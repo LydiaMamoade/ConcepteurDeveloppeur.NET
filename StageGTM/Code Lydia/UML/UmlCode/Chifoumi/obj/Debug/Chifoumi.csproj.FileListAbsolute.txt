@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\Chifoumi\bin\Debug\Chifoumi.exe.config
+S:\Lydia\Code\UML\UmlCode\Chifoumi\obj\Debug\Chifoumi.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Chifoumi\bin\Debug\Chifoumi.exe
+S:\Lydia\Code\UML\UmlCode\Chifoumi\bin\Debug\Chifoumi.pdb
+S:\Lydia\Code\UML\UmlCode\Chifoumi\obj\Debug\Chifoumi.exe
+S:\Lydia\Code\UML\UmlCode\Chifoumi\obj\Debug\Chifoumi.pdb

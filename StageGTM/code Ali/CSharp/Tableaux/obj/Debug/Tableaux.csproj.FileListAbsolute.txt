@@ -1,0 +1,12 @@
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe.config
+S:\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe.config
+S:\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe
+S:\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.pdb
+S:\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.exe
+S:\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.pdb
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.exe
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.pdb
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.exe
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\bin\Debug\Tableaux.pdb
+\\PARME22\Formation\Ali\Code\CSharp\Tableaux\obj\Debug\Tableaux.csprojResolveAssemblyReference.cache

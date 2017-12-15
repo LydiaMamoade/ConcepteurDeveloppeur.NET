@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Exercice2\bin\Debug\Exercice2.exe.config
+S:\Formation\Ali\Code\CSharp\Exercice2\bin\Debug\Exercice2.exe
+S:\Formation\Ali\Code\CSharp\Exercice2\bin\Debug\Exercice2.pdb
+S:\Formation\Ali\Code\CSharp\Exercice2\obj\Debug\Exercice2.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Exercice2\obj\Debug\Exercice2.exe
+S:\Formation\Ali\Code\CSharp\Exercice2\obj\Debug\Exercice2.pdb

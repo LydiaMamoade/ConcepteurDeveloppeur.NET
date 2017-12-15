@@ -1,0 +1,2 @@
+\\PARME25\Lydia\Code\CSharp\Serialisation\bin\Debug\Serialisation.exe.config
+\\PARME25\Lydia\Code\CSharp\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache

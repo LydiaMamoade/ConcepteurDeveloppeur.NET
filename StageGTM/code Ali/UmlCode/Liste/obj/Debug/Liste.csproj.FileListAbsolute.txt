@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\UML\UmlCode\Liste\bin\Debug\Liste.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Liste\bin\Debug\Liste.exe
+S:\Formation\Ali\Code\UML\UmlCode\Liste\bin\Debug\Liste.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Liste\obj\Debug\Liste.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\Liste\obj\Debug\Liste.exe
+S:\Formation\Ali\Code\UML\UmlCode\Liste\obj\Debug\Liste.pdb

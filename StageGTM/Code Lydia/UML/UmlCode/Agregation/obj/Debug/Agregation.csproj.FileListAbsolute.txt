@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\Agregation\bin\Debug\Agregation.exe.config
+S:\Lydia\Code\UML\UmlCode\Agregation\bin\Debug\Agregation.exe
+S:\Lydia\Code\UML\UmlCode\Agregation\bin\Debug\Agregation.pdb
+S:\Lydia\Code\UML\UmlCode\Agregation\obj\Debug\Agregation.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Agregation\obj\Debug\Agregation.exe
+S:\Lydia\Code\UML\UmlCode\Agregation\obj\Debug\Agregation.pdb

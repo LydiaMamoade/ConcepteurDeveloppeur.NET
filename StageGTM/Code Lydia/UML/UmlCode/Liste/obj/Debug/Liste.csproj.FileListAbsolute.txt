@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\Liste\bin\Debug\Liste.exe.config
+S:\Lydia\Code\UML\UmlCode\Liste\bin\Debug\Liste.exe
+S:\Lydia\Code\UML\UmlCode\Liste\bin\Debug\Liste.pdb
+S:\Lydia\Code\UML\UmlCode\Liste\obj\Debug\Liste.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Liste\obj\Debug\Liste.exe
+S:\Lydia\Code\UML\UmlCode\Liste\obj\Debug\Liste.pdb

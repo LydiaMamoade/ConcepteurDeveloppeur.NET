@@ -1,0 +1,9 @@
+S:\Formation\Ali\Code\CSharp\Centrale\bin\Debug\Centrale.exe.config
+S:\Formation\Ali\Code\CSharp\Centrale\bin\Debug\Centrale.exe
+S:\Formation\Ali\Code\CSharp\Centrale\bin\Debug\Centrale.pdb
+S:\Formation\Ali\Code\CSharp\Centrale\obj\Debug\Centrale.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Centrale\obj\Debug\Centrale.exe
+S:\Formation\Ali\Code\CSharp\Centrale\obj\Debug\Centrale.pdb
+\\PARME22\Formation\Ali\Code\CSharp\Centrale\bin\Debug\Centrale.exe.config
+\\PARME22\Formation\Ali\Code\CSharp\Centrale\obj\Debug\Centrale.exe
+\\PARME22\Formation\Ali\Code\CSharp\Centrale\obj\Debug\Centrale.pdb

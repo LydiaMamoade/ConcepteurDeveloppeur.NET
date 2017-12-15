@@ -1,0 +1,5 @@
+S:\Formation\Ali\Code\CSharp\MethodeDExtension\bin\Debug\MethodeDExtension.exe.config
+S:\Formation\Ali\Code\CSharp\MethodeDExtension\bin\Debug\MethodeDExtension.exe
+S:\Formation\Ali\Code\CSharp\MethodeDExtension\bin\Debug\MethodeDExtension.pdb
+S:\Formation\Ali\Code\CSharp\MethodeDExtension\obj\Debug\MethodeDExtension.exe
+S:\Formation\Ali\Code\CSharp\MethodeDExtension\obj\Debug\MethodeDExtension.pdb

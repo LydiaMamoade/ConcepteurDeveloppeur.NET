@@ -1,0 +1,6 @@
+\\PARME25\Lydia\Code\CSharp\Centrale\bin\Debug\Centrale.exe.config
+\\PARME25\Lydia\Code\CSharp\Centrale\bin\Debug\Centrale.exe
+\\PARME25\Lydia\Code\CSharp\Centrale\bin\Debug\Centrale.pdb
+\\PARME25\Lydia\Code\CSharp\Centrale\obj\Debug\Centrale.csprojResolveAssemblyReference.cache
+\\PARME25\Lydia\Code\CSharp\Centrale\obj\Debug\Centrale.exe
+\\PARME25\Lydia\Code\CSharp\Centrale\obj\Debug\Centrale.pdb

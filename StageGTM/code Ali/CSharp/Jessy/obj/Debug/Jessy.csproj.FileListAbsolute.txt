@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\CSharp\Jessy\bin\Debug\Jessy.exe.config
+S:\Formation\Ali\Code\CSharp\Jessy\bin\Debug\Jessy.exe
+S:\Formation\Ali\Code\CSharp\Jessy\bin\Debug\Jessy.pdb
+S:\Formation\Ali\Code\CSharp\Jessy\obj\Debug\Jessy.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\CSharp\Jessy\obj\Debug\Jessy.exe
+S:\Formation\Ali\Code\CSharp\Jessy\obj\Debug\Jessy.pdb

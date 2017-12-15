@@ -1,0 +1,81 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Personnes id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<List_x0060_1_x002B__items href="#ref-3"/>
+<List_x0060_1_x002B__size>14</List_x0060_1_x002B__size>
+<List_x0060_1_x002B__version>14</List_x0060_1_x002B__version>
+</a1:Personnes>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:Personne[16]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+<item href="#ref-9"/>
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+<item href="#ref-12"/>
+<item href="#ref-13"/>
+<item href="#ref-14"/>
+<item href="#ref-15"/>
+<item href="#ref-16"/>
+<item href="#ref-17"/>
+</SOAP-ENC:Array>
+<a1:Personne id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-18">Théodoros</Prenom>
+<Ville id="ref-19">Athènes</Ville>
+</a1:Personne>
+<a1:Personne id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-20">Thi Qui Khanh</Prenom>
+<Ville id="ref-21">Hochiminh</Ville>
+</a1:Personne>
+<a1:Personne id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-22">Lydia</Prenom>
+<Ville id="ref-23">Bangui</Ville>
+</a1:Personne>
+<a1:Personne id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-24">Niry</Prenom>
+<Ville id="ref-25">Tana</Ville>
+</a1:Personne>
+<a1:Personne id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-26">Velio</Prenom>
+<Ville id="ref-27">Mexico</Ville>
+</a1:Personne>
+<a1:Personne id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-28">Hédi</Prenom>
+<Ville id="ref-29">Melun</Ville>
+</a1:Personne>
+<a1:Personne id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-30">Raja</Prenom>
+<Ville id="ref-31">Agadir</Ville>
+</a1:Personne>
+<a1:Personne id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-32">Yiqing</Prenom>
+<Ville id="ref-33">Shanghai</Ville>
+</a1:Personne>
+<a1:Personne id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-34">Armelle</Prenom>
+<Ville id="ref-35">Douala</Ville>
+</a1:Personne>
+<a1:Personne id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-36">Denis</Prenom>
+<Ville id="ref-37">Paris</Ville>
+</a1:Personne>
+<a1:Personne id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-38">Hafid</Prenom>
+<Ville id="ref-39">Bejaia</Ville>
+</a1:Personne>
+<a1:Personne id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-40">Pierre Yves</Prenom>
+<Ville id="ref-41">Nancy</Ville>
+</a1:Personne>
+<a1:Personne id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-42">Ali</Prenom>
+<Ville id="ref-43">Sanya</Ville>
+</a1:Personne>
+<a1:Personne id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialisation/Serialisation%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Prenom id="ref-44">Maurice</Prenom>
+<Ville id="ref-45">Clamart</Ville>
+</a1:Personne>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

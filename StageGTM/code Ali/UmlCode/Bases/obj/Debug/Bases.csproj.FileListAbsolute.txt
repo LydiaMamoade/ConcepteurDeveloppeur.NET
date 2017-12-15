@@ -1,0 +1,6 @@
+S:\Formation\Ali\Code\UML\UmlCode\Bases\bin\Debug\Bases.exe.config
+S:\Formation\Ali\Code\UML\UmlCode\Bases\bin\Debug\Bases.exe
+S:\Formation\Ali\Code\UML\UmlCode\Bases\bin\Debug\Bases.pdb
+S:\Formation\Ali\Code\UML\UmlCode\Bases\obj\Debug\Bases.csprojResolveAssemblyReference.cache
+S:\Formation\Ali\Code\UML\UmlCode\Bases\obj\Debug\Bases.exe
+S:\Formation\Ali\Code\UML\UmlCode\Bases\obj\Debug\Bases.pdb

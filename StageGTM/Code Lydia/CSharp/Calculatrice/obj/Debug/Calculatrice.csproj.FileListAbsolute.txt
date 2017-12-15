@@ -1,0 +1,5 @@
+\\PARME25\Lydia\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.exe.config
+\\PARME25\Lydia\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.exe
+\\PARME25\Lydia\Code\CSharp\Calculatrice\bin\Debug\Calculatrice.pdb
+\\PARME25\Lydia\Code\CSharp\Calculatrice\obj\Debug\Calculatrice.exe
+\\PARME25\Lydia\Code\CSharp\Calculatrice\obj\Debug\Calculatrice.pdb

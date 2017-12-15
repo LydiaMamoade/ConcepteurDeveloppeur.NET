@@ -1,0 +1,6 @@
+S:\Lydia\Code\UML\UmlCode\Encaptulation\bin\Debug\Encaptulation.exe.config
+S:\Lydia\Code\UML\UmlCode\Encaptulation\bin\Debug\Encaptulation.exe
+S:\Lydia\Code\UML\UmlCode\Encaptulation\bin\Debug\Encaptulation.pdb
+S:\Lydia\Code\UML\UmlCode\Encaptulation\obj\Debug\Encaptulation.csprojResolveAssemblyReference.cache
+S:\Lydia\Code\UML\UmlCode\Encaptulation\obj\Debug\Encaptulation.exe
+S:\Lydia\Code\UML\UmlCode\Encaptulation\obj\Debug\Encaptulation.pdb
